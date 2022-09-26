@@ -1,0 +1,7 @@
+2022-09-20 23:15:19:1519 - [31merror[39m : [31mError connecting to database mongodb[39m
+2022-09-20 23:15:38:1538 - [31merror[39m : [31mError connecting to database mongodb[39m
+2022-09-26 09:31:37:3137 - [31merror[39m : [31mError system: Movie validation failed: rating: Cast to Number failed for value "3,1" (type string) at path "rating"[39m
+2022-09-26 09:42:05:425 - [31merror[39m : [31mError system: Movie validation failed: rating: Cast to Number failed for value "3,1" (type string) at path "rating"[39m
+2022-09-26 09:44:58:4458 - [31merror[39m : [31mError system: Movie validation failed: rating: Cast to Number failed for value "3,1" (type string) at path "rating"[39m
+2022-09-26 09:49:13:4913 - [31merror[39m : [31mError system: Movie validation failed: rating: Cast to Number failed for value "3,1" (type string) at path "rating"[39m
+2022-09-26 10:22:41:2241 - [31merror[39m : [31mError system Cast to ObjectId failed for value "6331b4c2924f70863dsd96792" (type string) at path "_id" for model "Movie"[39m
